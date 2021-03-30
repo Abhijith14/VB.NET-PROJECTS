@@ -1,0 +1,12 @@
+C:\Users\ABHIJITH UDAYAKUMAR\source\repos\ArithmeticOperations\ArithmeticOperations\bin\Debug\ArithmeticOperations.exe.config
+C:\Users\ABHIJITH UDAYAKUMAR\source\repos\ArithmeticOperations\ArithmeticOperations\bin\Debug\ArithmeticOperations.exe
+C:\Users\ABHIJITH UDAYAKUMAR\source\repos\ArithmeticOperations\ArithmeticOperations\bin\Debug\ArithmeticOperations.pdb
+C:\Users\ABHIJITH UDAYAKUMAR\source\repos\ArithmeticOperations\ArithmeticOperations\bin\Debug\ArithmeticOperations.xml
+C:\Users\ABHIJITH UDAYAKUMAR\source\repos\ArithmeticOperations\ArithmeticOperations\obj\Debug\ArithmeticOperations.vbprojAssemblyReference.cache
+C:\Users\ABHIJITH UDAYAKUMAR\source\repos\ArithmeticOperations\ArithmeticOperations\obj\Debug\ArithmeticOperations.Form1.resources
+C:\Users\ABHIJITH UDAYAKUMAR\source\repos\ArithmeticOperations\ArithmeticOperations\obj\Debug\ArithmeticOperations.Resources.resources
+C:\Users\ABHIJITH UDAYAKUMAR\source\repos\ArithmeticOperations\ArithmeticOperations\obj\Debug\ArithmeticOperations.vbproj.GenerateResource.cache
+C:\Users\ABHIJITH UDAYAKUMAR\source\repos\ArithmeticOperations\ArithmeticOperations\obj\Debug\ArithmeticOperations.vbproj.CoreCompileInputs.cache
+C:\Users\ABHIJITH UDAYAKUMAR\source\repos\ArithmeticOperations\ArithmeticOperations\obj\Debug\ArithmeticOperations.exe
+C:\Users\ABHIJITH UDAYAKUMAR\source\repos\ArithmeticOperations\ArithmeticOperations\obj\Debug\ArithmeticOperations.xml
+C:\Users\ABHIJITH UDAYAKUMAR\source\repos\ArithmeticOperations\ArithmeticOperations\obj\Debug\ArithmeticOperations.pdb

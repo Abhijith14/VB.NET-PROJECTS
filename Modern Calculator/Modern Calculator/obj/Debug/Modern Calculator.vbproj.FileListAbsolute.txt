@@ -1,0 +1,16 @@
+C:\Users\ABHIJITH UDAYAKUMAR\source\repos\Modern Calculator\Modern Calculator\bin\Debug\Modern Calculator.exe.config
+C:\Users\ABHIJITH UDAYAKUMAR\source\repos\Modern Calculator\Modern Calculator\bin\Debug\Modern Calculator.exe
+C:\Users\ABHIJITH UDAYAKUMAR\source\repos\Modern Calculator\Modern Calculator\bin\Debug\Modern Calculator.pdb
+C:\Users\ABHIJITH UDAYAKUMAR\source\repos\Modern Calculator\Modern Calculator\bin\Debug\Modern Calculator.xml
+C:\Users\ABHIJITH UDAYAKUMAR\source\repos\Modern Calculator\Modern Calculator\obj\Debug\Modern Calculator.vbprojAssemblyReference.cache
+C:\Users\ABHIJITH UDAYAKUMAR\source\repos\Modern Calculator\Modern Calculator\obj\Debug\Modern_Calculator.Form1.resources
+C:\Users\ABHIJITH UDAYAKUMAR\source\repos\Modern Calculator\Modern Calculator\obj\Debug\Modern_Calculator.Resources.resources
+C:\Users\ABHIJITH UDAYAKUMAR\source\repos\Modern Calculator\Modern Calculator\obj\Debug\Modern Calculator.vbproj.GenerateResource.cache
+C:\Users\ABHIJITH UDAYAKUMAR\source\repos\Modern Calculator\Modern Calculator\obj\Debug\Modern Calculator.vbproj.CoreCompileInputs.cache
+C:\Users\ABHIJITH UDAYAKUMAR\source\repos\Modern Calculator\Modern Calculator\obj\Debug\Modern Calculator.exe
+C:\Users\ABHIJITH UDAYAKUMAR\source\repos\Modern Calculator\Modern Calculator\obj\Debug\Modern Calculator.xml
+C:\Users\ABHIJITH UDAYAKUMAR\source\repos\Modern Calculator\Modern Calculator\obj\Debug\Modern Calculator.pdb
+C:\Users\ABHIJITH UDAYAKUMAR\source\repos\Modern Calculator\Modern Calculator\bin\Debug\Modern Calculator.exe.manifest
+C:\Users\ABHIJITH UDAYAKUMAR\source\repos\Modern Calculator\Modern Calculator\bin\Debug\Modern Calculator.application
+C:\Users\ABHIJITH UDAYAKUMAR\source\repos\Modern Calculator\Modern Calculator\obj\Debug\Modern Calculator.exe.manifest
+C:\Users\ABHIJITH UDAYAKUMAR\source\repos\Modern Calculator\Modern Calculator\obj\Debug\Modern Calculator.application

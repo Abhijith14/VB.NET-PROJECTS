@@ -1,0 +1,11 @@
+C:\Users\ABHIJITH UDAYAKUMAR\source\repos\Digital Clock\Digital Clock\bin\Debug\Digital Clock.exe.config
+C:\Users\ABHIJITH UDAYAKUMAR\source\repos\Digital Clock\Digital Clock\bin\Debug\Digital Clock.exe
+C:\Users\ABHIJITH UDAYAKUMAR\source\repos\Digital Clock\Digital Clock\bin\Debug\Digital Clock.pdb
+C:\Users\ABHIJITH UDAYAKUMAR\source\repos\Digital Clock\Digital Clock\bin\Debug\Digital Clock.xml
+C:\Users\ABHIJITH UDAYAKUMAR\source\repos\Digital Clock\Digital Clock\obj\Debug\Digital_Clock.Form1.resources
+C:\Users\ABHIJITH UDAYAKUMAR\source\repos\Digital Clock\Digital Clock\obj\Debug\Digital_Clock.Resources.resources
+C:\Users\ABHIJITH UDAYAKUMAR\source\repos\Digital Clock\Digital Clock\obj\Debug\Digital Clock.vbproj.GenerateResource.cache
+C:\Users\ABHIJITH UDAYAKUMAR\source\repos\Digital Clock\Digital Clock\obj\Debug\Digital Clock.vbproj.CoreCompileInputs.cache
+C:\Users\ABHIJITH UDAYAKUMAR\source\repos\Digital Clock\Digital Clock\obj\Debug\Digital Clock.exe
+C:\Users\ABHIJITH UDAYAKUMAR\source\repos\Digital Clock\Digital Clock\obj\Debug\Digital Clock.xml
+C:\Users\ABHIJITH UDAYAKUMAR\source\repos\Digital Clock\Digital Clock\obj\Debug\Digital Clock.pdb
