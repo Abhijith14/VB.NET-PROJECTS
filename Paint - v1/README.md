@@ -34,7 +34,7 @@ Visual Studio solution file can be found [here.](https://github.com/Abhijith14/V
 
 ### Deployment
 
-After clonning [this repo](https://github.com/Abhijith14/VB.NET-PROJECTS), run [Form1](https://github.com/Abhijith14/VB.NET-PROJECTS/blob/master/Paint%20-%20v1/Paint%20-%20v1/Form1.vb). Find the code in Form1.vb and Design in Form1.vb (Design).
+After clonning [this repo](https://github.com/Abhijith14/VB.NET-PROJECTS), run [Form1](https://github.com/Abhijith14/VB.NET-PROJECTS/blob/master/Paint%20-%20v1/ShapesDraw/Form1.vb). Find the code in Form1.vb and Design in Form1.vb (Design).
 
 ### Built With
 
