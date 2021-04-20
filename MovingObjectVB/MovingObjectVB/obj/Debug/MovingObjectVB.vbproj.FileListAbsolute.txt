@@ -1,0 +1,12 @@
+C:\Users\ABHIJITH UDAYAKUMAR\source\repos\MovingObjectVB\MovingObjectVB\bin\Debug\MovingObjectVB.exe.config
+C:\Users\ABHIJITH UDAYAKUMAR\source\repos\MovingObjectVB\MovingObjectVB\bin\Debug\MovingObjectVB.exe
+C:\Users\ABHIJITH UDAYAKUMAR\source\repos\MovingObjectVB\MovingObjectVB\bin\Debug\MovingObjectVB.pdb
+C:\Users\ABHIJITH UDAYAKUMAR\source\repos\MovingObjectVB\MovingObjectVB\bin\Debug\MovingObjectVB.xml
+C:\Users\ABHIJITH UDAYAKUMAR\source\repos\MovingObjectVB\MovingObjectVB\obj\Debug\MovingObjectVB.vbprojAssemblyReference.cache
+C:\Users\ABHIJITH UDAYAKUMAR\source\repos\MovingObjectVB\MovingObjectVB\obj\Debug\MovingObjectVB.Form1.resources
+C:\Users\ABHIJITH UDAYAKUMAR\source\repos\MovingObjectVB\MovingObjectVB\obj\Debug\MovingObjectVB.Resources.resources
+C:\Users\ABHIJITH UDAYAKUMAR\source\repos\MovingObjectVB\MovingObjectVB\obj\Debug\MovingObjectVB.vbproj.GenerateResource.cache
+C:\Users\ABHIJITH UDAYAKUMAR\source\repos\MovingObjectVB\MovingObjectVB\obj\Debug\MovingObjectVB.vbproj.CoreCompileInputs.cache
+C:\Users\ABHIJITH UDAYAKUMAR\source\repos\MovingObjectVB\MovingObjectVB\obj\Debug\MovingObjectVB.exe
+C:\Users\ABHIJITH UDAYAKUMAR\source\repos\MovingObjectVB\MovingObjectVB\obj\Debug\MovingObjectVB.xml
+C:\Users\ABHIJITH UDAYAKUMAR\source\repos\MovingObjectVB\MovingObjectVB\obj\Debug\MovingObjectVB.pdb

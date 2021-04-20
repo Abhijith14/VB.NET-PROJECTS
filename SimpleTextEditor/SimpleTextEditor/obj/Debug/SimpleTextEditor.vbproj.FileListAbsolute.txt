@@ -1,0 +1,13 @@
+C:\Users\ABHIJITH UDAYAKUMAR\source\repos\SimpleTextEditor\SimpleTextEditor\bin\Debug\SimpleTextEditor.exe.config
+C:\Users\ABHIJITH UDAYAKUMAR\source\repos\SimpleTextEditor\SimpleTextEditor\bin\Debug\SimpleTextEditor.exe
+C:\Users\ABHIJITH UDAYAKUMAR\source\repos\SimpleTextEditor\SimpleTextEditor\bin\Debug\SimpleTextEditor.pdb
+C:\Users\ABHIJITH UDAYAKUMAR\source\repos\SimpleTextEditor\SimpleTextEditor\bin\Debug\SimpleTextEditor.xml
+C:\Users\ABHIJITH UDAYAKUMAR\source\repos\SimpleTextEditor\SimpleTextEditor\obj\Debug\SimpleTextEditor.vbprojAssemblyReference.cache
+C:\Users\ABHIJITH UDAYAKUMAR\source\repos\SimpleTextEditor\SimpleTextEditor\obj\Debug\SimpleTextEditor.Form1.resources
+C:\Users\ABHIJITH UDAYAKUMAR\source\repos\SimpleTextEditor\SimpleTextEditor\obj\Debug\SimpleTextEditor.Resources.resources
+C:\Users\ABHIJITH UDAYAKUMAR\source\repos\SimpleTextEditor\SimpleTextEditor\obj\Debug\SimpleTextEditor.vbproj.GenerateResource.cache
+C:\Users\ABHIJITH UDAYAKUMAR\source\repos\SimpleTextEditor\SimpleTextEditor\obj\Debug\SimpleTextEditor.vbproj.CoreCompileInputs.cache
+C:\Users\ABHIJITH UDAYAKUMAR\source\repos\SimpleTextEditor\SimpleTextEditor\obj\Debug\SimpleTextEditor.exe
+C:\Users\ABHIJITH UDAYAKUMAR\source\repos\SimpleTextEditor\SimpleTextEditor\obj\Debug\SimpleTextEditor.xml
+C:\Users\ABHIJITH UDAYAKUMAR\source\repos\SimpleTextEditor\SimpleTextEditor\obj\Debug\SimpleTextEditor.pdb
+C:\Users\ABHIJITH UDAYAKUMAR\source\repos\SimpleTextEditor\SimpleTextEditor\obj\Debug\SimpleTextEditor.AboutForm.resources

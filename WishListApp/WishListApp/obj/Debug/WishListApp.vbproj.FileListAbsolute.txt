@@ -1,0 +1,12 @@
+C:\Users\ABHIJITH UDAYAKUMAR\source\repos\WishListApp\WishListApp\bin\Debug\WishListApp.exe.config
+C:\Users\ABHIJITH UDAYAKUMAR\source\repos\WishListApp\WishListApp\bin\Debug\WishListApp.exe
+C:\Users\ABHIJITH UDAYAKUMAR\source\repos\WishListApp\WishListApp\bin\Debug\WishListApp.pdb
+C:\Users\ABHIJITH UDAYAKUMAR\source\repos\WishListApp\WishListApp\bin\Debug\WishListApp.xml
+C:\Users\ABHIJITH UDAYAKUMAR\source\repos\WishListApp\WishListApp\obj\Debug\WishListApp.vbprojAssemblyReference.cache
+C:\Users\ABHIJITH UDAYAKUMAR\source\repos\WishListApp\WishListApp\obj\Debug\WishListApp.Form1.resources
+C:\Users\ABHIJITH UDAYAKUMAR\source\repos\WishListApp\WishListApp\obj\Debug\WishListApp.Resources.resources
+C:\Users\ABHIJITH UDAYAKUMAR\source\repos\WishListApp\WishListApp\obj\Debug\WishListApp.vbproj.GenerateResource.cache
+C:\Users\ABHIJITH UDAYAKUMAR\source\repos\WishListApp\WishListApp\obj\Debug\WishListApp.vbproj.CoreCompileInputs.cache
+C:\Users\ABHIJITH UDAYAKUMAR\source\repos\WishListApp\WishListApp\obj\Debug\WishListApp.exe
+C:\Users\ABHIJITH UDAYAKUMAR\source\repos\WishListApp\WishListApp\obj\Debug\WishListApp.xml
+C:\Users\ABHIJITH UDAYAKUMAR\source\repos\WishListApp\WishListApp\obj\Debug\WishListApp.pdb
