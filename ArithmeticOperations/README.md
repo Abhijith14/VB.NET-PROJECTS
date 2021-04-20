@@ -5,7 +5,7 @@
   Develop simple window application for performing arithmetic operation.
 </p>
 
-![demo](https://raw.githubusercontent.com/Abhijith14/VB.NET-PROJECTS/tree/master/ArithmeticOperations/readme_assets/ArithOp.png)
+![demo](https://raw.githubusercontent.com/Abhijith14/VB.NET-PROJECTS/master/readme_assets/ArithOp.png)
 
 <br>
 <br>
@@ -29,12 +29,12 @@ Run the setup.exe application
 
 ## 🔧 Cloning to Visual Studio
 
-Visual Studio solution file can be found [here.](https://github.com/Abhijith14/Digital-Clock/tree/master/Project/Digital%20Clock)
+Visual Studio solution file can be found [here.](https://github.com/Abhijith14/VB.NET-PROJECTS/tree/master/ArithmeticOperations)
 
 
 ### Deployment
 
-After clonning [this repo](https://github.com/Abhijith14/Digital-Clock), run Form1. Find the code in Form1.vb and Design in Form1.vb (Design).
+After clonning [this repo](https://github.com/Abhijith14/VB.NET-PROJECTS), run [Form1](https://github.com/Abhijith14/VB.NET-PROJECTS/blob/master/ArithmeticOperations/ArithmeticOperations/Form1.vb). Find the code in Form1.vb and Design in Form1.vb (Design).
 
 ### Built With
 
@@ -58,15 +58,4 @@ I value keeping my work open source, but as you all know, _**plagiarism is bad**
 
 ### TL;DR
 
-Yes, you can fork this repo. Please give me proper credit by linking back to [Abhijith14/Digital-Clock](https://github.com/Abhijith14/Digital-Clock). Thanks!
-
-<br>
-
-## 🎨 Color Reference
-
-| Color          | Hex                                                                | RGB		                 |
-| -------------- | ------------------------------------------------------------------ |	---------------------- |
-| Pure Black     | ![#000000](https://via.placeholder.com/10/000000?text=+) `#000000` |	rgb(0, 0, 0)	         |
-| Blue-Black     | ![#2b2833](https://via.placeholder.com/10/2b2833?text=+) `#2b2833` |	rgb(43, 40, 51)        |
-| Creamy White   | ![#eaeaec](https://via.placeholder.com/10/eaeaec?text=+) `#eaeaec` |	rgb(234, 234, 236)     |
-| Light Green    | ![#5bffd3](https://via.placeholder.com/10/5bffd3?text=+) `#5bffd3` |	rgb(91, 255, 211)      |
+Yes, you can fork this repo. Please give me proper credit by linking back to [Abhijith14/VB.NET-PROJECTS](https://github.com/Abhijith14/VB.NET-PROJECTS). Thanks!
